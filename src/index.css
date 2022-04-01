@@ -1,0 +1,12 @@
+#root,
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background: linear-gradient(#fcd1d1, #aee1e1);
+  background-color: #fcd1d1;
+  background-size: cover;
+}

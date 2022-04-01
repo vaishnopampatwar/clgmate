@@ -1,0 +1,18 @@
+.sidebar {
+    margin-right: 10px;
+    flex: 0.2;
+  }
+  
+  .sidebar > .MuiButton-root {
+    color: white;
+    background: #b92b27;
+    text-transform: inherit;
+    border-radius: 20px;
+    margin-left: 25px;
+  }
+  
+  .sidebar > .MuiButton-root:hover {
+    color: #ffffff;
+    background: #8f1f1b;
+  }
+  
